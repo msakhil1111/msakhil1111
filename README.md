@@ -1,4 +1,7 @@
-## Hi there 👋
+
+# Hey 👋
+
+I'm Akhil, a software tester currently a dedicated philomath.
 
 <!--
 **msakhil1111/msakhil1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
